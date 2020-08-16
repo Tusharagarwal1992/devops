@@ -1,1 +1,2 @@
 new file
+automate build
